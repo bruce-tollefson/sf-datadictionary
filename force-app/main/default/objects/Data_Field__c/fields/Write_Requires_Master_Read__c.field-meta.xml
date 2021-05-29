@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Write_Requires_Master_Read__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>True if writing to the detail object requires read sharing instead of read/write sharing of the parent</description>
+    <externalId>false</externalId>
+    <inlineHelpText>True if writing to the detail object requires read sharing instead of read/write sharing of the parent</inlineHelpText>
+    <label>Write Requires Master Read</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

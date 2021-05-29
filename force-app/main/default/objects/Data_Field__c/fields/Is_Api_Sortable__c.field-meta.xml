@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Is_Api_Sortable__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>If true, a query can sort on this field.You can&apos;t sort or filter compound fields. This field’s value is always false for compound fields.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>If true, a query can sort on this field.You can&apos;t sort or filter compound fields. This field’s value is always false for compound fields.</inlineHelpText>
+    <label>Is Api Sortable</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

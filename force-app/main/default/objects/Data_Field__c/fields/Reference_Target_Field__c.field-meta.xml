@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Reference_Target_Field__c</fullName>
+    <description>Name of the custom field on the parent standard or custom object whose values are matched against the values of the child external object&apos;s indirect lookup relationship field. The match is done to determine which records are related to each other</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Name of the custom field on the parent standard or custom object whose values are matched against the values of the child external object&apos;s indirect lookup relationship field. The match is done to determine which records are related to each other</inlineHelpText>
+    <label>Reference Target Field</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>TextArea</type>
+</CustomField>

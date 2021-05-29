@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Change_Events</fullName>
+    <columns>NAME</columns>
+    <columns>Custom_Definition__c</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>NAME</field>
+        <operation>contains</operation>
+        <value>ChangeEvent</value>
+    </filters>
+    <label>Change Events</label>
+</ListView>

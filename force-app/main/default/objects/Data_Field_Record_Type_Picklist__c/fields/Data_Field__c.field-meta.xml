@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Data_Field__c</fullName>
+    <externalId>false</externalId>
+    <label>Data Field</label>
+    <referenceTo>Data_Field__c</referenceTo>
+    <relationshipLabel>Data Field Record Type Picklists</relationshipLabel>
+    <relationshipName>Data_Field_Record_Type_Picklists</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>

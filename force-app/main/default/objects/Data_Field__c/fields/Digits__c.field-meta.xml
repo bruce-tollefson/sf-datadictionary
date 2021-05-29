@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Digits__c</fullName>
+    <description>Maximum number of digits specified for the field. This method is only valid with Integer fields</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Maximum number of digits specified for the field. This method is only valid with Integer fields</inlineHelpText>
+    <label>Digits</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

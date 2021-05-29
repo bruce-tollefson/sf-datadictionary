@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Extra_Type_Info__c</fullName>
+    <description>Represents further definition of a type. Available in Tooling API starting version 34.0.
+For type textarea:
+plaintextarea
+richtextarea
+For type URL, image
+For type reference,
+externallookup
+indirectlookup
+externallookup
+For Account,
+switchablepersonname
+personname</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Represents further definition of a type</inlineHelpText>
+    <label>Extra Type Info</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>TextArea</type>
+</CustomField>

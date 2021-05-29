@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Integration_Service__c</fullName>
+    <externalId>false</externalId>
+    <label>Integration Service</label>
+    <referenceTo>Integration_Service__c</referenceTo>
+    <relationshipLabel>Integration Service Fields</relationshipLabel>
+    <relationshipName>Integration_Service_Fields</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>

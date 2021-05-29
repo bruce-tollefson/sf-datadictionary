@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Restricted_Picklist__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>True if the field is a restricted picklist, false otherwise</description>
+    <externalId>false</externalId>
+    <inlineHelpText>True if the field is a restricted picklist, false otherwise</inlineHelpText>
+    <label>Restricted Picklist</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

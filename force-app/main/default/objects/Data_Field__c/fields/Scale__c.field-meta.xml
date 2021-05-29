@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Scale__c</fullName>
+    <description>Fields of type Double, returns the number of digits to the right of the decimal point. Any extra digits to the right of the decimal point are truncated.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Fields of type Double, returns the number of digits to the right of the decimal point. Any extra digits to the right of the decimal point are truncated.</inlineHelpText>
+    <label>Scale</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

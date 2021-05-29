@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Custom_Setting__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Returns true if the object is a custom setting, false otherwise.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Returns true if the object is a custom setting, false otherwise.</inlineHelpText>
+    <label>Custom Setting</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Cascade_Delete__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>True if the child object is deleted when the parent object is deleted, false otherwise</description>
+    <externalId>false</externalId>
+    <inlineHelpText>True if the child object is deleted when the parent object is deleted, false otherwise</inlineHelpText>
+    <label>Cascade Delete</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Filterable__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>True if the field can be used as part of the filter criteria of a WHERE statement, false otherwise</description>
+    <externalId>false</externalId>
+    <inlineHelpText>True if the field can be used as part of the filter criteria of a WHERE statement, false otherwise</inlineHelpText>
+    <label>Filterable</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>
