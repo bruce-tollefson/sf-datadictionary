@@ -1,4 +1,6 @@
 # sf-datadictionary
+
+<a href="https://salesforcecentral.com/creating-a-living-data-dictionary-in-salesforce-series/">Creating a Living Data Dictionary in Salesforce</a>
 =======
 # Salesforce DX Project: Next Steps
 
