@@ -203,9 +203,8 @@ public class DataDictionaryUtility {
 
     @AuraEnabled(cacheable=true)
     public static Id submitDataPicklistBatch(){
-        system.debug('here');
         DataDictionaryPicklist_Batch dPickBatch = new DataDictionaryPicklist_Batch();
-        Id batchId = Database.executeBatch(dPickBatch);
+        Id batchId = Database.executeBatch(dPickBatch, 50);// if 100+ RTs then there will be a callout error
         return batchId;
     }
 }

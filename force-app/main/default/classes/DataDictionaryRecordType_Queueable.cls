@@ -93,7 +93,7 @@ public class DataDictionaryRecordType_Queueable implements Finalizer, Queueable 
       String parentJobId = '' + ctx.getAsyncApexJobId();
       if (ctx.getResult() == ParentJobResult.SUCCESS) {
           DataDictionaryPicklist_Batch DDPB = new DataDictionaryPicklist_Batch();//batch for creating all picklist values
-          Id batchId = Database.executeBatch(DDPB);   
+          Id batchId = DataDictionaryUtility.submitDataPicklistBatch();   
       }
   }
 }
